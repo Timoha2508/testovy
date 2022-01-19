@@ -8,3 +8,5 @@ while i <  len(numbers)-1:
     else:
         i+=1
 print(count_pair)
+print(numbers)
+print('good')
